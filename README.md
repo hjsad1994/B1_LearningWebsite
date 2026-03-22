@@ -1,4 +1,4 @@
-# HUTECH Quiz App
+# B1_LearningWebsite
 
 Ứng dụng Node.js đơn giản để làm trắc nghiệm từ 3 file:
 
