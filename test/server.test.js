@@ -216,12 +216,14 @@ test('GET / returns the landing HTML page', async () => {
     assert.match(response.body, /english-100.html/);
     assert.match(response.body, /reading-mixed.html/);
     assert.match(response.body, /signs-40.html/);
+    assert.match(response.body, /writing-topics.html/);
+    assert.match(response.body, /speaking-topics.html/);
   } finally {
     await new Promise((resolve, reject) => server.close((error) => error ? reject(error) : resolve()));
   }
 });
 
-test('GET quiz pages returns all dedicated quiz pages', async () => {
+test('GET quiz, writing, and speaking pages returns all dedicated pages', async () => {
   const app = createApp();
   const server = app.listen(0);
   const baseUrl = `http://127.0.0.1:${server.address().port}`;
@@ -230,13 +232,19 @@ test('GET quiz pages returns all dedicated quiz pages', async () => {
     const englishPage = await request(baseUrl, '/english-100.html');
     const readingPage = await request(baseUrl, '/reading-mixed.html');
     const signsPage = await request(baseUrl, '/signs-40.html');
+    const writingPage = await request(baseUrl, '/writing-topics.html');
+    const speakingPage = await request(baseUrl, '/speaking-topics.html');
 
     assert.equal(englishPage.statusCode, 200);
     assert.equal(readingPage.statusCode, 200);
     assert.equal(signsPage.statusCode, 200);
+    assert.equal(writingPage.statusCode, 200);
+    assert.equal(speakingPage.statusCode, 200);
     assert.match(englishPage.body, /Bộ đề trắc nghiệm tiếng Anh 100 câu/);
     assert.match(readingPage.body, /Bộ đề reading TEXT 1, 6, 11, 23/);
     assert.match(signsPage.body, /Bộ đề trắc nghiệm biển báo/);
+    assert.match(writingPage.body, /Topic 15 va Topic 16/);
+    assert.match(speakingPage.body, /Topic 9 den Topic 14/);
   } finally {
     await new Promise((resolve, reject) => server.close((error) => error ? reject(error) : resolve()));
   }
