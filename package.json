@@ -1,0 +1,17 @@
+{
+  "name": "hutech-quiz-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js web quiz from HUTECH CSV data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^6.2.1",
+    "express": "^5.2.1"
+  }
+}

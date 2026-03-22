@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HUTECH Signs 40 Quiz</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body
+    data-quiz-id="signs40"
+    data-quick-mode="random5"
+    data-full-label="Ôn hết 40 câu"
+    data-quick-label="Luyện nhanh 5 câu"
+    data-ready-full="Sẵn sàng ôn toàn bộ 40 câu"
+    data-ready-quick="Sẵn sàng luyện nhanh 5 câu"
+  >
+    <div class="page-shell">
+      <header class="hero">
+        <nav class="page-nav">
+          <a href="/">Trang chọn đề</a>
+          <a href="/reading-mixed.html">Sang đề Reading</a>
+          <a href="/english-100.html">Sang đề English 100</a>
+        </nav>
+
+        <p class="eyebrow">Signs 1-40</p>
+        <h1>Bộ đề trắc nghiệm biển báo</h1>
+        <p class="intro">Trang riêng cho bộ đề Signs 1-40, hỗ trợ ôn toàn bộ hoặc luyện nhanh 5 câu như bạn yêu cầu.</p>
+        <div class="hero-stats">
+          <div>
+            <span class="stat-label">Chế độ ôn tập</span>
+            <strong id="mode-label">Ôn hết 40 câu</strong>
+          </div>
+          <div>
+            <span class="stat-label">Số câu hỏi</span>
+            <strong id="question-count">...</strong>
+          </div>
+          <div>
+            <span class="stat-label">Trạng thái</span>
+            <strong id="status-text">Đang tải đề...</strong>
+          </div>
+        </div>
+
+        <form id="mode-form" class="mode-form">
+          <label class="mode-option" for="mode-full">
+            <input id="mode-full" type="radio" name="study-mode" value="full" checked />
+            <span>
+              <strong>Ôn hết 40 câu</strong>
+              <small>Làm toàn bộ bộ đề Signs 1-40 theo đúng thứ tự gốc.</small>
+            </span>
+          </label>
+          <label class="mode-option" for="mode-random5">
+            <input id="mode-random5" type="radio" name="study-mode" value="random5" />
+            <span>
+              <strong>Luyện nhanh 5 câu</strong>
+              <small>Lấy ngẫu nhiên 5 câu để ôn gọn, vẫn giữ nguyên vị trí đáp án A, B, C, D.</small>
+            </span>
+          </label>
+        </form>
+      </header>
+
+      <main>
+        <section id="result-panel" class="result-panel hidden" aria-live="polite"></section>
+        <form id="quiz-form" class="quiz-list"></form>
+      </main>
+    </div>
+
+    <template id="question-template">
+      <section class="question-card">
+        <div class="question-top">
+          <span class="question-number"></span>
+          <span class="question-state">Chưa trả lời</span>
+        </div>
+        <h2 class="question-text"></h2>
+        <div class="options"></div>
+        <p class="feedback hidden"></p>
+      </section>
+    </template>
+
+    <script src="/app.js" defer></script>
+  </body>
+</html>

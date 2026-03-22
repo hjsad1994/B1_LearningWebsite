@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HUTECH Reading Sets Quiz</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body
+    data-quiz-id="readingMixed"
+    data-quick-mode="randomGroup"
+    data-full-label="Ôn hết 20 câu"
+    data-quick-label="Random 1 bộ reading"
+    data-ready-full="Sẵn sàng ôn toàn bộ 20 câu"
+    data-ready-quick="Sẵn sàng làm 1 bộ reading ngẫu nhiên"
+  >
+    <div class="page-shell">
+      <header class="hero">
+        <nav class="page-nav">
+          <a href="/">Trang chọn đề</a>
+          <a href="/english-100.html">Sang đề English 100</a>
+          <a href="/signs-40.html">Sang đề Signs 40</a>
+        </nav>
+
+        <p class="eyebrow">Reading Text Sets</p>
+        <h1>Bộ đề reading TEXT 1, 6, 11, 23</h1>
+        <p class="intro">Làm toàn bộ 20 câu hoặc random 1 bộ reading gồm 5 câu cùng một text để ôn theo từng đoạn đọc.</p>
+        <div class="hero-stats">
+          <div>
+            <span class="stat-label">Chế độ ôn tập</span>
+            <strong id="mode-label">Ôn hết 20 câu</strong>
+          </div>
+          <div>
+            <span class="stat-label">Số câu hỏi</span>
+            <strong id="question-count">...</strong>
+          </div>
+          <div>
+            <span class="stat-label">Trạng thái</span>
+            <strong id="status-text">Đang tải đề...</strong>
+          </div>
+        </div>
+
+        <form id="mode-form" class="mode-form">
+          <label class="mode-option" for="mode-full">
+            <input id="mode-full" type="radio" name="study-mode" value="full" checked />
+            <span>
+              <strong>Ôn hết 20 câu</strong>
+              <small>Làm toàn bộ các câu của TEXT 1, 6, 11, 23 theo thứ tự trong CSV.</small>
+            </span>
+          </label>
+          <label class="mode-option" for="mode-random-group">
+            <input id="mode-random-group" type="radio" name="study-mode" value="randomGroup" />
+            <span>
+              <strong>Random 1 bộ reading</strong>
+              <small>Chọn ngẫu nhiên 1 text và lấy trọn bộ 5 câu của text đó.</small>
+            </span>
+          </label>
+        </form>
+      </header>
+
+      <main>
+        <section id="result-panel" class="result-panel hidden" aria-live="polite"></section>
+        <form id="quiz-form" class="quiz-list"></form>
+      </main>
+    </div>
+
+    <template id="question-template">
+      <section class="question-card">
+        <div class="question-top">
+          <span class="question-number"></span>
+          <span class="question-state">Chưa trả lời</span>
+        </div>
+        <h2 class="question-text"></h2>
+        <div class="options"></div>
+        <p class="feedback hidden"></p>
+      </section>
+    </template>
+
+    <script src="/app.js" defer></script>
+  </body>
+</html>
