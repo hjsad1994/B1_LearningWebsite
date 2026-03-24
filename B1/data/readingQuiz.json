@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "textCode": "TEXT 1",
+    "textTitle": "OUR GREAT OCEAN ROAD ADVENTURE",
+    "passageBody": null,
+    "questionNumber": 1,
+    "question": "Donna's Dad decided not to drive the Great Ocean Road himself because",
+    "options": {
+      "A": "He realized he wouldn't enjoy the views as much.",
+      "B": "He thought it would be too tiring for him.",
+      "C": "He discovered the bus would be a cheaper option.",
+      "D": "He found out the route was very challenging."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 2,
+    "textCode": "TEXT 1",
+    "textTitle": "OUR GREAT OCEAN ROAD ADVENTURE",
+    "passageBody": null,
+    "questionNumber": 2,
+    "question": "When Donna saw a kangaroo along the route, she was",
+    "options": {
+      "A": "worried that it might approach her.",
+      "B": "amazed at the size of it.",
+      "C": "sad that it didn't stay with them long.",
+      "D": "disappointed that she had forgotten her camera."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 3,
+    "textCode": "TEXT 1",
+    "textTitle": "OUR GREAT OCEAN ROAD ADVENTURE",
+    "passageBody": null,
+    "questionNumber": 3,
+    "question": "Donna says that the koala bears they saw were",
+    "options": {
+      "A": "responsible for damage to the trees.",
+      "B": "even more attractive than people had told her.",
+      "C": "more common than she'd expected.",
+      "D": "very skilled at hiding away from tourists."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4,
+    "textCode": "TEXT 1",
+    "textTitle": "OUR GREAT OCEAN ROAD ADVENTURE",
+    "passageBody": null,
+    "questionNumber": 4,
+    "question": "What was Donna's opinion of the place where they stayed?",
+    "options": {
+      "A": "She found it was less comfortable than she'd hoped.",
+      "B": "She liked the fact that it was convenient for sightseeing.",
+      "C": "She enjoyed hearing the sounds of nature as she slept.",
+      "D": "She was disappointed there was no restaurant nearby."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 5,
+    "textCode": "TEXT 1",
+    "textTitle": "OUR GREAT OCEAN ROAD ADVENTURE",
+    "passageBody": null,
+    "questionNumber": 5,
+    "question": "What might Donna write in her blog during the trip?",
+    "options": {
+      "A": "The bus we're traveling on is pretty comfortable...",
+      "B": "We can see quite a lot as we drive along...",
+      "C": "Yesterday we went to see some huge rocks...",
+      "D": "I wasn't looking forward to camping... but now I feel silly."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 6,
+    "textCode": "TEXT 6",
+    "textTitle": "WHALE-WATCHING TRIP",
+    "passageBody": null,
+    "questionNumber": 1,
+    "question": "Jack wasn't keen to mention his whale-watching trip to Olivia because",
+    "options": {
+      "A": "he thought her trip sounded a lot more exciting.",
+      "B": "he'd read some negative reports about where he was going.",
+      "C": "he wasn't sure if his dad had definitely arranged it.",
+      "D": "he didn't know whether she was very interested in whales."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 7,
+    "textCode": "TEXT 6",
+    "textTitle": "WHALE-WATCHING TRIP",
+    "passageBody": null,
+    "questionNumber": 2,
+    "question": "On board the whale-watching boat, Jack",
+    "options": {
+      "A": "was proud to be the first person to see a whale.",
+      "B": "began to worry that they might all be disappointed.",
+      "C": "tried not to get excited when anyone saw something.",
+      "D": "was glad he'd persuaded his dad to come with him."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 8,
+    "textCode": "TEXT 6",
+    "textTitle": "WHALE-WATCHING TRIP",
+    "passageBody": null,
+    "questionNumber": 3,
+    "question": "When Jack saw the minke whale, he was",
+    "options": {
+      "A": "surprised at how close it came to the boat.",
+      "B": "amazed that it was so much bigger than he'd imagined.",
+      "C": "impressed that it moved through the water so easily.",
+      "D": "delighted to see it had arrived with several others."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 9,
+    "textCode": "TEXT 6",
+    "textTitle": "WHALE-WATCHING TRIP",
+    "passageBody": null,
+    "questionNumber": 4,
+    "question": "Jack suggests minke whales appeared in the same area as the boat because",
+    "options": {
+      "A": "they knew there were plenty of fish there.",
+      "B": "they were attracted by the arrival of the visitors.",
+      "C": "they didn't have to compete for food with seabirds.",
+      "D": "they preferred how deep the water was there."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 10,
+    "textCode": "TEXT 6",
+    "textTitle": "WHALE-WATCHING TRIP",
+    "passageBody": null,
+    "questionNumber": 5,
+    "question": "What would Jack text to his grandparents about the whales?",
+    "options": {
+      "A": "I'll send you my video of the group of whales...",
+      "B": "Dad said he'd really wanted to go to Canada...",
+      "C": "I must take you up to the cliffs to look for whales...",
+      "D": "You were so sure our whale-watching trip would be a success..."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 11,
+    "textCode": "TEXT 11",
+    "textTitle": "\"FRESHLY\" RESTAURANT",
+    "passageBody": null,
+    "questionNumber": 1,
+    "question": "The food at Freshly",
+    "options": {
+      "A": "is grown by the staff.",
+      "B": "comes from places in or close to Brighton.",
+      "C": "comes from all over the world.",
+      "D": "comes all over Britain."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 12,
+    "textCode": "TEXT 11",
+    "textTitle": "\"FRESHLY\" RESTAURANT",
+    "passageBody": null,
+    "questionNumber": 2,
+    "question": "Where did the owner start to train as a chef?",
+    "options": {
+      "A": "at junior school",
+      "B": "at university",
+      "C": "at home with the help of her family",
+      "D": "in a hotel"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 13,
+    "textCode": "TEXT 11",
+    "textTitle": "\"FRESHLY\" RESTAURANT",
+    "passageBody": null,
+    "questionNumber": 3,
+    "question": "How did Jane feel while she was training to be a chef?",
+    "options": {
+      "A": "She was really tired but felt positive about the experience.",
+      "B": "She wanted to give up because of the pressure.",
+      "C": "She wasn't sure if she would be successful.",
+      "D": "She found it quite easy to finish the training."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 14,
+    "textCode": "TEXT 11",
+    "textTitle": "\"FRESHLY\" RESTAURANT",
+    "passageBody": null,
+    "questionNumber": 4,
+    "question": "What is said about Freshly restaurant?",
+    "options": {
+      "A": "The head waiter is in charge of the menu.",
+      "B": "The staff often change jobs because they like to do different things.",
+      "C": "It is a big and fancy restaurant with a great view.",
+      "D": "The staff have a very good relationship with each other."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 15,
+    "textCode": "TEXT 11",
+    "textTitle": "\"FRESHLY\" RESTAURANT",
+    "passageBody": null,
+    "questionNumber": 5,
+    "question": "What would Peter say about Freshly restaurant?",
+    "options": {
+      "A": "Freshly restaurant may serve tasty food but it is extremely pricey - not worth it.",
+      "B": "A great effort from a successful young chef who supports local products.",
+      "C": "A famous chef who tried rather unsuccessfully to set up a different kind of restaurant.",
+      "D": "The cheerful staff and nice location are the only things that are worth mentioning."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 16,
+    "textCode": "TEXT 23",
+    "textTitle": "ANA RONSON - Singer-songwriter",
+    "passageBody": null,
+    "questionNumber": 1,
+    "question": "What helped Ana stop being scared of singing to an audience?",
+    "options": {
+      "A": "practicing her singing with a band",
+      "B": "asking a teacher to stand on stage with her",
+      "C": "being in a drama group at school",
+      "D": "making sure she was not in the front row"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 17,
+    "textCode": "TEXT 23",
+    "textTitle": "ANA RONSON - Singer-songwriter",
+    "passageBody": null,
+    "questionNumber": 2,
+    "question": "How was the songwriting course useful for Ana?",
+    "options": {
+      "A": "She was able to meet some well-known singers.",
+      "B": "The teacher's attitude gave her an idea for a song.",
+      "C": "She learned a lot from other writers on the course.",
+      "D": "The teacher gave her advice about the music business."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 18,
+    "textCode": "TEXT 23",
+    "textTitle": "ANA RONSON - Singer-songwriter",
+    "passageBody": null,
+    "questionNumber": 3,
+    "question": "Ana decided to work with Joss Alton because",
+    "options": {
+      "A": "he promised to let her choose which songs to sing.",
+      "B": "he offered to help her put on a concert.",
+      "C": "she liked some other singers that he worked with.",
+      "D": "he owned a company in her hometown."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 19,
+    "textCode": "TEXT 23",
+    "textTitle": "ANA RONSON - Singer-songwriter",
+    "passageBody": null,
+    "questionNumber": 4,
+    "question": "Ana most enjoys writing songs that",
+    "options": {
+      "A": "she is sure her fans will like it.",
+      "B": "deal with difficult times.",
+      "C": "her brother can sing with his band.",
+      "D": "help people remember their own experiences."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 20,
+    "textCode": "TEXT 23",
+    "textTitle": "ANA RONSON - Singer-songwriter",
+    "passageBody": null,
+    "questionNumber": 5,
+    "question": "What would Ana write to fans in her blog?",
+    "options": {
+      "A": "Listening to my parents playing music...",
+      "B": "Writing songs just gets easier with practice...",
+      "C": "I loved playing the concert in Dublin...",
+      "D": "I read what people write about me online..."
+    },
+    "correctAnswer": "D"
+  }
+]

@@ -7,49 +7,137 @@
     <link rel="stylesheet" href="/styles.css" />
   </head>
   <body>
-    <div class="page-shell landing-shell">
+    <div class="page-shell">
       <header class="hero landing-hero">
+        <nav class="page-nav">
+          <a href="/english-100.html">English 100</a>
+          <a href="/reading-mixed.html">Reading</a>
+          <a href="/signs-40.html">Signs 40</a>
+          <a href="/writing-topics.html">Writing</a>
+          <a href="/speaking-topics.html">Speaking</a>
+        </nav>
+
         <p class="eyebrow">HUTECH quiz hub</p>
-        <h1>Chọn bộ đề bạn muốn làm</h1>
-        <p class="intro">Mỗi bo de co mot trang rieng: trac nghiem, reading, writing, va speaking de ban on tap de hon.</p>
+        <h1>Làm các bộ đề trên một page</h1>
+        <p class="intro">Lay kieu page tu thu muc B1/ de gop 3 bo de English 100, Reading va Signs 40 vao cung mot noi. Page Writing Topic va Speaking Topic van giu nguyen nhu hien tai.</p>
+
+        <div class="hero-stats">
+          <div>
+            <span class="stat-label">Che do on tap</span>
+            <strong id="mode-label">On het 100 cau</strong>
+          </div>
+          <div>
+            <span class="stat-label">So cau hoi</span>
+            <strong id="question-count">...</strong>
+          </div>
+          <div>
+            <span class="stat-label">Trang thai</span>
+            <strong id="status-text">Dang tai de...</strong>
+          </div>
+        </div>
+
+        <form id="quiz-type-form" class="quiz-type-form">
+          <label class="mode-option quiz-type-option" for="quiz-type-english100">
+            <input id="quiz-type-english100" type="radio" name="quiz-type" value="english100" checked />
+            <span>
+              <strong>English 100</strong>
+              <small>Bo de tieng Anh 100 cau, lam du hoac luyen nhanh ngau nhien 10 cau.</small>
+            </span>
+          </label>
+
+          <label class="mode-option quiz-type-option" for="quiz-type-readingMixed">
+            <input id="quiz-type-readingMixed" type="radio" name="quiz-type" value="readingMixed" />
+            <span>
+              <strong>Reading Sets</strong>
+              <small>TEXT 1, 6, 11, 23 voi che do on du hoac random tron 1 bo reading.</small>
+            </span>
+          </label>
+
+          <label class="mode-option quiz-type-option" for="quiz-type-signs40">
+            <input id="quiz-type-signs40" type="radio" name="quiz-type" value="signs40" />
+            <span>
+              <strong>Signs 40</strong>
+              <small>Bo de bien bao 1-40, ho tro on du hoac luyen nhanh ngau nhien 5 cau.</small>
+            </span>
+          </label>
+        </form>
+
+        <form id="mode-form" class="mode-form">
+          <label class="mode-option" for="mode-full">
+            <input id="mode-full" type="radio" name="study-mode" value="full" checked />
+            <span>
+              <strong id="mode-full-title">On het 100 cau</strong>
+              <small id="mode-full-note">Lam toan bo de theo dung thu tu trong file goc.</small>
+            </span>
+          </label>
+          <label class="mode-option" for="mode-quick">
+            <input id="mode-quick" type="radio" name="study-mode" value="random10" />
+            <span>
+              <strong id="mode-quick-title">Luyen nhanh 10 cau</strong>
+              <small id="mode-quick-note">Lay ngau nhien mot phan de de on tap nhanh.</small>
+            </span>
+          </label>
+        </form>
       </header>
 
-      <main class="quiz-grid">
+      <section class="quiz-grid landing-links">
         <a class="quiz-entry" href="/english-100.html">
-          <span class="quiz-badge">English 100</span>
-          <h2>Bộ đề tiếng Anh 100 câu</h2>
-          <p>Làm đầy đủ 100 câu hoặc luyện nhanh ngẫu nhiên 10 câu.</p>
-          <strong>Vào trang làm bài</strong>
+          <span class="quiz-badge">Trang rieng</span>
+          <h2>English 100</h2>
+          <p>Mo trang rieng cua bo de 100 cau neu ban muon on tach biet.</p>
+          <strong>Vao trang rieng</strong>
         </a>
 
         <a class="quiz-entry" href="/reading-mixed.html">
-          <span class="quiz-badge">Reading Sets</span>
-          <h2>Bộ đề reading TEXT 1, 6, 11, 23</h2>
-          <p>Ôn toàn bộ 20 câu hoặc random 1 bộ reading gồm 5 câu cùng text.</p>
-          <strong>Vào trang làm bài</strong>
+          <span class="quiz-badge">Trang rieng</span>
+          <h2>Reading Sets</h2>
+          <p>Mo page rieng cho TEXT 1, 6, 11, 23 voi cau hinh hien tai cua ban.</p>
+          <strong>Vao trang rieng</strong>
         </a>
 
         <a class="quiz-entry" href="/signs-40.html">
-          <span class="quiz-badge">Signs 40</span>
-          <h2>Bộ đề biển báo Signs 1-40</h2>
-          <p>Làm toàn bộ 40 câu hoặc luyện nhanh ngẫu nhiên 5 câu.</p>
-          <strong>Vào trang làm bài</strong>
+          <span class="quiz-badge">Trang rieng</span>
+          <h2>Signs 40</h2>
+          <p>Mo page rieng cua bo de bien bao 1-40.</p>
+          <strong>Vao trang rieng</strong>
         </a>
 
         <a class="quiz-entry" href="/writing-topics.html">
-          <span class="quiz-badge">Writing Topics</span>
-          <h2>Trang đọc Topic 15 và 16</h2>
-          <p>Đọc lại 2 bài viết mẫu với bố cục thư rõ ràng để ôn trên điện thoại và máy tính.</p>
-          <strong>Vào trang đọc bài</strong>
+          <span class="quiz-badge">Giu nguyen</span>
+          <h2>Writing Topics</h2>
+          <p>Trang doc Topic 15 va 16 duoc giu nguyen theo yeu cau cua ban.</p>
+          <strong>Vao trang doc bai</strong>
         </a>
 
         <a class="quiz-entry" href="/speaking-topics.html">
-          <span class="quiz-badge">Speaking Topics</span>
-          <h2>Trang đọc Topic 9 đến 14</h2>
-          <p>Ôn phần nói với câu hỏi và câu trả lời mẫu ngắn gọn cho các topic thường gặp.</p>
-          <strong>Vào trang đọc bài</strong>
+          <span class="quiz-badge">Giu nguyen</span>
+          <h2>Speaking Topics</h2>
+          <p>Trang doc Topic 9 den 14 van giu nguyen noi dung va cau truc cu.</p>
+          <strong>Vao trang doc bai</strong>
         </a>
+      </section>
+
+      <main>
+        <section id="result-panel" class="result-panel hidden" aria-live="polite"></section>
+        <form id="quiz-form" class="quiz-list"></form>
       </main>
     </div>
+
+    <template id="question-template">
+      <section class="question-card">
+        <div class="question-top">
+          <span class="question-number"></span>
+          <span class="question-state">Chua tra loi</span>
+        </div>
+        <h2 class="question-text"></h2>
+        <div class="question-media hidden">
+          <img class="question-image" alt="" loading="lazy" />
+        </div>
+        <div class="options"></div>
+        <p class="feedback hidden"></p>
+      </section>
+    </template>
+
+    <script src="/app.js" defer></script>
   </body>
 </html>

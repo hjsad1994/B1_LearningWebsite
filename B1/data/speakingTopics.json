@@ -1,0 +1,76 @@
+[
+  {
+    "id": 9,
+    "topicCode": "Topic 9",
+    "title": "Job (Teacher)",
+    "prompt": "Describe the job or career you have or hope to have.",
+    "questions": [
+      "What is the job?",
+      "What does it involve?",
+      "Why do you choose it?",
+      "What should you do to be successful with it?"
+    ]
+  },
+  {
+    "id": 10,
+    "topicCode": "Topic 10",
+    "title": "Movie (Titanic)",
+    "prompt": "Describe a movie that you particularly like.",
+    "questions": [
+      "What is the name of the movie?",
+      "Who stars in the movie?",
+      "What is it about?",
+      "Why do you particularly like it?"
+    ]
+  },
+  {
+    "id": 11,
+    "topicCode": "Topic 11",
+    "title": "Wedding",
+    "prompt": "Describe a wedding you have been to.",
+    "questions": [
+      "Whose wedding was it?",
+      "Who attended the wedding?",
+      "What did you wear to the wedding?",
+      "What happened during the wedding?",
+      "How did you feel?"
+    ]
+  },
+  {
+    "id": 12,
+    "topicCode": "Topic 12",
+    "title": "Free Time Activity",
+    "prompt": "Describe an activity you do when you are alone in your free time.",
+    "questions": [
+      "What activity is it?",
+      "Is it easy or difficult to do?",
+      "How do you feel when you do it?",
+      "Are there any benefits of doing it?"
+    ]
+  },
+  {
+    "id": 13,
+    "topicCode": "Topic 13",
+    "title": "Favorite Photograph",
+    "prompt": "Describe your favorite photograph.",
+    "questions": [
+      "What photograph is it?",
+      "When and where was it taken?",
+      "How long have you had it?",
+      "Why do you like it?"
+    ]
+  },
+  {
+    "id": 14,
+    "topicCode": "Topic 14",
+    "title": "Childhood Friend",
+    "prompt": "Describe a childhood friend of yours.",
+    "questions": [
+      "What is his/her name?",
+      "What did he/she look like?",
+      "What was he/she like?",
+      "Why did you like him/her?",
+      "What did you like to do together?"
+    ]
+  }
+]

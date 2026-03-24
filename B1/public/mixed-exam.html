@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Đề tổng hợp HUTECH</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <nav class="page-nav" aria-label="Điều hướng trang luyện tập">
+          <a href="/">Trang chọn đề</a>
+          <a href="/mixed-exam.html" aria-current="page">Đề tổng hợp</a>
+          <a href="/writing-topics.html">Writing</a>
+          <a href="/speaking-topics.html">Speaking</a>
+        </nav>
+
+        <p class="eyebrow">Mixed Exam</p>
+        <h1>Đề tổng hợp</h1>
+        <p class="intro">Mỗi lần tải sẽ tạo một đề gồm Vocabulary 10 câu, Sign 5 câu, 1 bài Reading, 1 bài Cloze Text, Listening random 2 bài, Speaking 1 topic và Writing 1 topic.</p>
+
+        <div class="hero-stats">
+          <div>
+            <span class="stat-label">Cấu trúc đề</span>
+            <strong>10 + 5 + 1 + 1 + 2 + 1 + 1</strong>
+          </div>
+          <div>
+            <span class="stat-label">Tổng câu hỏi</span>
+            <strong id="exam-question-count">...</strong>
+          </div>
+          <div>
+            <span class="stat-label">Trạng thái</span>
+            <strong id="exam-status-text">Đang tạo đề...</strong>
+          </div>
+        </div>
+
+        <div class="hero-actions">
+          <button id="reload-exam-button" type="button">Tạo đề mới</button>
+        </div>
+      </header>
+
+      <main class="exam-layout">
+        <section id="mixed-result-panel" class="result-panel hidden" aria-live="polite"></section>
+        <form id="mixed-exam-form" class="exam-form"></form>
+      </main>
+    </div>
+
+    <template id="question-template">
+      <section class="question-card">
+        <div class="question-top">
+          <span class="question-number"></span>
+          <span class="question-state">Chưa trả lời</span>
+        </div>
+        <h2 class="question-text"></h2>
+        <div class="question-media hidden">
+          <img class="question-image" alt="" loading="lazy" />
+        </div>
+        <div class="options"></div>
+        <p class="feedback hidden"></p>
+      </section>
+    </template>
+
+    <script src="/mixed-exam.js" defer></script>
+  </body>
+</html>

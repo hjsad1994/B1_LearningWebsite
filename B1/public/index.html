@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Trắc Nghiệm HUTECH</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <nav class="page-nav" aria-label="Điều hướng trang luyện tập">
+          <a href="/" aria-current="page">Trang chọn đề</a>
+          <a href="/mixed-exam.html">Đề tổng hợp</a>
+          <a href="/writing-topics.html">Writing</a>
+          <a href="/speaking-topics.html">Speaking</a>
+        </nav>
+
+        <p class="eyebrow">Ứng dụng ôn tập Node.js</p>
+        <h1>Bộ đề trắc nghiệm tiếng Anh</h1>
+        <p class="intro">Làm bài trực tiếp trên trình duyệt, nộp bài và xem kết quả ngay.</p>
+        <div class="hero-stats">
+          <div>
+            <span class="stat-label">Chế độ ôn tập</span>
+            <strong id="mode-label">100 câu</strong>
+          </div>
+          <div>
+            <span class="stat-label">Số câu hỏi</span>
+            <strong id="question-count">...</strong>
+          </div>
+          <div>
+            <span class="stat-label">Trạng thái</span>
+            <strong id="status-text">Đang tải đề...</strong>
+          </div>
+        </div>
+
+        <form id="quiz-type-form" class="quiz-type-form">
+          <label class="mode-option quiz-type-option" for="quiz-type-vocabulary">
+            <input id="quiz-type-vocabulary" type="radio" name="quiz-type" value="vocabulary" checked />
+            <span>
+              <strong>Vocabulary</strong>
+              <small>Ôn tập bộ câu hỏi từ vựng và nghĩa tiếng Anh như hiện tại.</small>
+            </span>
+          </label>
+          <label class="mode-option quiz-type-option" for="quiz-type-sign">
+            <input id="quiz-type-sign" type="radio" name="quiz-type" value="sign" />
+            <span>
+              <strong>Sign</strong>
+              <small>Luyện bộ câu hỏi biển báo với hình minh họa đi kèm khi có sẵn.</small>
+            </span>
+          </label>
+          <label class="mode-option quiz-type-option" for="quiz-type-reading">
+            <input id="quiz-type-reading" type="radio" name="quiz-type" value="reading" />
+            <span>
+              <strong>Reading Comprehension</strong>
+              <small>Luyện bộ câu hỏi đọc hiểu với mã bài đọc, tiêu đề và số câu đi kèm.</small>
+            </span>
+          </label>
+          <label class="mode-option quiz-type-option" for="quiz-type-cloze">
+            <input id="quiz-type-cloze" type="radio" name="quiz-type" value="cloze" />
+            <span>
+              <strong>Cloze Text</strong>
+              <small>Luyện bộ câu hỏi điền từ theo từng TEXT, hiển thị chung đoạn văn và 10 câu hỏi liên quan.</small>
+            </span>
+          </label>
+          <label class="mode-option quiz-type-option" for="quiz-type-listening">
+            <input id="quiz-type-listening" type="radio" name="quiz-type" value="listening" />
+            <span>
+              <strong>Listening</strong>
+              <small>Luyện bộ câu hỏi nghe hiểu gồm điền từ, trắc nghiệm và đúng/sai theo từng TEXT.</small>
+            </span>
+          </label>
+        </form>
+
+        <form id="mode-form" class="mode-form">
+          <label class="mode-option" for="mode-full">
+            <input id="mode-full" type="radio" name="study-mode" value="full" checked />
+            <span>
+              <strong id="mode-full-title">Ôn đủ 100 câu</strong>
+              <small>Làm toàn bộ đề theo thứ tự gốc.</small>
+            </span>
+          </label>
+          <label class="mode-option" for="mode-random10">
+            <input id="mode-random10" type="radio" name="study-mode" value="random10" />
+            <span>
+              <strong id="mode-random10-title">Ôn ngẫu nhiên 10 câu</strong>
+              <small id="mode-random10-copy">Lấy ngẫu nhiên 10 câu để luyện nhanh, giữ nguyên vị trí đáp án.</small>
+            </span>
+          </label>
+        </form>
+      </header>
+
+      <main>
+        <section class="resource-section" aria-labelledby="resource-title">
+          <div class="section-heading">
+            <p class="eyebrow">Quick Practice</p>
+            <h2 id="resource-title">Tài liệu Speaking và Writing</h2>
+            <p class="intro">Mở nhanh 2 trang chủ đề để ôn câu trả lời mẫu và bài viết mẫu ngay trên cùng giao diện.</p>
+          </div>
+          <div class="resource-grid">
+            <a class="resource-card" href="/mixed-exam.html">
+              <span class="quiz-badge">Mixed Exam</span>
+              <h3>Đề tổng hợp</h3>
+              <p>Ghép Vocabulary 10 câu, Sign 5 câu, 1 bài Reading, 1 bài Cloze và 2 bài Listening để làm như một đề hoàn chỉnh.</p>
+            </a>
+            <a class="resource-card" href="/writing-topics.html">
+              <span class="quiz-badge">Writing</span>
+              <h3>Topic 15 - 16</h3>
+              <p>Đọc lại 2 bài viết mẫu theo dạng thư để ôn cấu trúc, từ vựng và cách triển khai ý.</p>
+            </a>
+            <a class="resource-card" href="/speaking-topics.html">
+              <span class="quiz-badge">Speaking</span>
+              <h3>Topic 9 - 14</h3>
+              <p>Xem bộ câu hỏi kèm câu trả lời ngắn gọn, dễ nhớ cho phần nói.</p>
+            </a>
+          </div>
+        </section>
+
+        <section id="result-panel" class="result-panel hidden" aria-live="polite"></section>
+        <form id="quiz-form" class="quiz-list"></form>
+      </main>
+    </div>
+
+    <template id="question-template">
+      <section class="question-card">
+        <div class="question-top">
+          <span class="question-number"></span>
+          <span class="question-state">Chưa trả lời</span>
+        </div>
+        <h2 class="question-text"></h2>
+        <div class="question-media hidden">
+          <img class="question-image" alt="" loading="lazy" />
+        </div>
+        <div class="options"></div>
+        <p class="feedback hidden"></p>
+      </section>
+    </template>
+
+    <script src="/app.js" defer></script>
+  </body>
+</html>

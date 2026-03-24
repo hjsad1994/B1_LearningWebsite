@@ -1,0 +1,17 @@
+[
+  {
+    "id": 901,
+    "textCode": "TEXT Z",
+    "textTitle": "Fixture Cloze Title",
+    "passageBody": "Fixture [1] passage.",
+    "questionNumber": 1,
+    "question": "Choose the best word or phrase for blank 1.",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four"
+    },
+    "correctAnswer": "B"
+  }
+]

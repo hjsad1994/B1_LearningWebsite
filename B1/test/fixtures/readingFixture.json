@@ -1,0 +1,17 @@
+[
+  {
+    "id": 501,
+    "textCode": "TEXT X",
+    "textTitle": "Fixture Reading Title",
+    "passageBody": "Fixture passage body.",
+    "questionNumber": 1,
+    "question": "Fixture question?",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "C"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "textCode": "TEXT 4",
+    "textTitle": "HENRY FORD",
+    "passageBody": "Henry Ford was born on a farm in Michigan in 1863 but he did not like farming. When he was fifteen he began work as a mechanic and in 1893 he built his first car. After he [1] driven it 1,500 kilometres, he sold it and built two bigger cars. Then, in 1903, he [2] the Ford Motor Company. By [3] strong but light steel, he built cheap cars for [4] people to buy. In 1908, he built the first Ford Model T, [5] sold for $825. He was soon selling 100 cars [6] day. By 1927, the Ford Motor Company was [7] $700 million. Early Ford cars were simple and cheap, but [8] things simple sometimes [9] less choice. 'You [10] have any colour you like,' said Henry Ford of the Model T, 'as long as it's black.'",
+    "questionNumber": 1,
+    "question": "Choose the best word or phrase for blank 1.",
+    "options": {"A":"is","B":"was","C":"had","D":"has"},
+    "correctAnswer": "C"
+  },
+  {
+    "id": 2,
+    "textCode": "TEXT 4",
+    "textTitle": "HENRY FORD",
+    "passageBody": "Henry Ford was born on a farm in Michigan in 1863 but he did not like farming. When he was fifteen he began work as a mechanic and in 1893 he built his first car. After he [1] driven it 1,500 kilometres, he sold it and built two bigger cars. Then, in 1903, he [2] the Ford Motor Company. By [3] strong but light steel, he built cheap cars for [4] people to buy. In 1908, he built the first Ford Model T, [5] sold for $825. He was soon selling 100 cars [6] day. By 1927, the Ford Motor Company was [7] $700 million. Early Ford cars were simple and cheap, but [8] things simple sometimes [9] less choice. 'You [10] have any colour you like,' said Henry Ford of the Model T, 'as long as it's black.'",
+    "questionNumber": 2,
+    "question": "Choose the best word or phrase for blank 2.",
+    "options": {"A":"raised","B":"started","C":"led","D":"appeared"},
+    "correctAnswer": "B"
+  },
+  {
+    "id": 3,
+    "textCode": "TEXT 4",
+    "textTitle": "HENRY FORD",
+    "passageBody": "Henry Ford was born on a farm in Michigan in 1863 but he did not like farming. When he was fifteen he began work as a mechanic and in 1893 he built his first car. After he [1] driven it 1,500 kilometres, he sold it and built two bigger cars. Then, in 1903, he [2] the Ford Motor Company. By [3] strong but light steel, he built cheap cars for [4] people to buy. In 1908, he built the first Ford Model T, [5] sold for $825. He was soon selling 100 cars [6] day. By 1927, the Ford Motor Company was [7] $700 million. Early Ford cars were simple and cheap, but [8] things simple sometimes [9] less choice. 'You [10] have any colour you like,' said Henry Ford of the Model T, 'as long as it's black.'",
+    "questionNumber": 3,
+    "question": "Choose the best word or phrase for blank 3.",
+    "options": {"A":"putting","B":"operating","C":"using","D":"managing"},
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4,
+    "textCode": "TEXT 4",
+    "textTitle": "HENRY FORD",
+    "passageBody": "Henry Ford was born on a farm in Michigan in 1863 but he did not like farming. When he was fifteen he began work as a mechanic and in 1893 he built his first car. After he [1] driven it 1,500 kilometres, he sold it and built two bigger cars. Then, in 1903, he [2] the Ford Motor Company. By [3] strong but light steel, he built cheap cars for [4] people to buy. In 1908, he built the first Ford Model T, [5] sold for $825. He was soon selling 100 cars [6] day. By 1927, the Ford Motor Company was [7] $700 million. Early Ford cars were simple and cheap, but [8] things simple sometimes [9] less choice. 'You [10] have any colour you like,' said Henry Ford of the Model T, 'as long as it's black.'",
+    "questionNumber": 4,
+    "question": "Choose the best word or phrase for blank 4.",
+    "options": {"A":"usual","B":"ordinary","C":"general","D":"typical"},
+    "correctAnswer": "B"
+  },
+  {
+    "id": 5,
+    "textCode": "TEXT 4",
+    "textTitle": "HENRY FORD",
+    "passageBody": "Henry Ford was born on a farm in Michigan in 1863 but he did not like farming. When he was fifteen he began work as a mechanic and in 1893 he built his first car. After he [1] driven it 1,500 kilometres, he sold it and built two bigger cars. Then, in 1903, he [2] the Ford Motor Company. By [3] strong but light steel, he built cheap cars for [4] people to buy. In 1908, he built the first Ford Model T, [5] sold for $825. He was soon selling 100 cars [6] day. By 1927, the Ford Motor Company was [7] $700 million. Early Ford cars were simple and cheap, but [8] things simple sometimes [9] less choice. 'You [10] have any colour you like,' said Henry Ford of the Model T, 'as long as it's black.'",
+    "questionNumber": 5,
+    "question": "Choose the best word or phrase for blank 5.",
+    "options": {"A":"where","B":"which","C":"who","D":"what"},
+    "correctAnswer": "B"
+  },
+  {
+    "id": 6,
+    "textCode": "TEXT 4",
+    "textTitle": "HENRY FORD",
+    "passageBody": "Henry Ford was born on a farm in Michigan in 1863 but he did not like farming. When he was fifteen he began work as a mechanic and in 1893 he built his first car. After he [1] driven it 1,500 kilometres, he sold it and built two bigger cars. Then, in 1903, he [2] the Ford Motor Company. By [3] strong but light steel, he built cheap cars for [4] people to buy. In 1908, he built the first Ford Model T, [5] sold for $825. He was soon selling 100 cars [6] day. By 1927, the Ford Motor Company was [7] $700 million. Early Ford cars were simple and cheap, but [8] things simple sometimes [9] less choice. 'You [10] have any colour you like,' said Henry Ford of the Model T, 'as long as it's black.'",
+    "questionNumber": 6,
+    "question": "Choose the best word or phrase for blank 6.",
+    "options": {"A":"a","B":"some","C":"the","D":"one"},
+    "correctAnswer": "A"
+  },
+  {
+    "id": 7,
+    "textCode": "TEXT 4",
+    "textTitle": "HENRY FORD",
+    "passageBody": "Henry Ford was born on a farm in Michigan in 1863 but he did not like farming. When he was fifteen he began work as a mechanic and in 1893 he built his first car. After he [1] driven it 1,500 kilometres, he sold it and built two bigger cars. Then, in 1903, he [2] the Ford Motor Company. By [3] strong but light steel, he built cheap cars for [4] people to buy. In 1908, he built the first Ford Model T, [5] sold for $825. He was soon selling 100 cars [6] day. By 1927, the Ford Motor Company was [7] $700 million. Early Ford cars were simple and cheap, but [8] things simple sometimes [9] less choice. 'You [10] have any colour you like,' said Henry Ford of the Model T, 'as long as it's black.'",
+    "questionNumber": 7,
+    "question": "Choose the best word or phrase for blank 7.",
+    "options": {"A":"rich","B":"worth","C":"expensive","D":"dear"},
+    "correctAnswer": "B"
+  },
+  {
+    "id": 8,
+    "textCode": "TEXT 4",
+    "textTitle": "HENRY FORD",
+    "passageBody": "Henry Ford was born on a farm in Michigan in 1863 but he did not like farming. When he was fifteen he began work as a mechanic and in 1893 he built his first car. After he [1] driven it 1,500 kilometres, he sold it and built two bigger cars. Then, in 1903, he [2] the Ford Motor Company. By [3] strong but light steel, he built cheap cars for [4] people to buy. In 1908, he built the first Ford Model T, [5] sold for $825. He was soon selling 100 cars [6] day. By 1927, the Ford Motor Company was [7] $700 million. Early Ford cars were simple and cheap, but [8] things simple sometimes [9] less choice. 'You [10] have any colour you like,' said Henry Ford of the Model T, 'as long as it's black.'",
+    "questionNumber": 8,
+    "question": "Choose the best word or phrase for blank 8.",
+    "options": {"A":"remaining","B":"staying","C":"keeping","D":"holding"},
+    "correctAnswer": "C"
+  },
+  {
+    "id": 9,
+    "textCode": "TEXT 4",
+    "textTitle": "HENRY FORD",
+    "passageBody": "Henry Ford was born on a farm in Michigan in 1863 but he did not like farming. When he was fifteen he began work as a mechanic and in 1893 he built his first car. After he [1] driven it 1,500 kilometres, he sold it and built two bigger cars. Then, in 1903, he [2] the Ford Motor Company. By [3] strong but light steel, he built cheap cars for [4] people to buy. In 1908, he built the first Ford Model T, [5] sold for $825. He was soon selling 100 cars [6] day. By 1927, the Ford Motor Company was [7] $700 million. Early Ford cars were simple and cheap, but [8] things simple sometimes [9] less choice. 'You [10] have any colour you like,' said Henry Ford of the Model T, 'as long as it's black.'",
+    "questionNumber": 9,
+    "question": "Choose the best word or phrase for blank 9.",
+    "options": {"A":"meant","B":"decided","C":"planned","D":"intended"},
+    "correctAnswer": "A"
+  },
+  {
+    "id": 10,
+    "textCode": "TEXT 4",
+    "textTitle": "HENRY FORD",
+    "passageBody": "Henry Ford was born on a farm in Michigan in 1863 but he did not like farming. When he was fifteen he began work as a mechanic and in 1893 he built his first car. After he [1] driven it 1,500 kilometres, he sold it and built two bigger cars. Then, in 1903, he [2] the Ford Motor Company. By [3] strong but light steel, he built cheap cars for [4] people to buy. In 1908, he built the first Ford Model T, [5] sold for $825. He was soon selling 100 cars [6] day. By 1927, the Ford Motor Company was [7] $700 million. Early Ford cars were simple and cheap, but [8] things simple sometimes [9] less choice. 'You [10] have any colour you like,' said Henry Ford of the Model T, 'as long as it's black.'",
+    "questionNumber": 10,
+    "question": "Choose the best word or phrase for blank 10.",
+    "options": {"A":"will","B":"ought","C":"need","D":"can"},
+    "correctAnswer": "D"
+  },
+  {
+    "id": 11,
+    "textCode": "TEXT 13",
+    "textTitle": "CAMPING",
+    "passageBody": "Although some groups of people have always lived outdoors in tents, camping as we know it today only began to be [1] about 50 years ago. The increase in the use of cars and improvements in camping [2] have allowed more people to travel longer [3] into the countryside and to stay there in greater comfort. Many campers like to be [4] themselves in quiet areas, so they [5] their tent and food and walk or cycle into the forests or the mountains. Others, preferring to be near people, drive to a public or privately-owned campsite [6] has up-to-date facilities, [7] hot showers and swimming pools. Whether campers are [8] in the mountains or on a busy site, they should remember to [9] the area clean and tidy. In the forests, they must put out any fires and keep food hidden to avoid attracting [10] animals.",
+    "questionNumber": 1,
+    "question": "Choose the best word or phrase for blank 1.",
+    "options": {"A":"famous","B":"popular","C":"favourite","D":"current"},
+    "correctAnswer": "B"
+  },
+  {
+    "id": 12,
+    "textCode": "TEXT 13",
+    "textTitle": "CAMPING",
+    "passageBody": "Although some groups of people have always lived outdoors in tents, camping as we know it today only began to be [1] about 50 years ago. The increase in the use of cars and improvements in camping [2] have allowed more people to travel longer [3] into the countryside and to stay there in greater comfort. Many campers like to be [4] themselves in quiet areas, so they [5] their tent and food and walk or cycle into the forests or the mountains. Others, preferring to be near people, drive to a public or privately-owned campsite [6] has up-to-date facilities, [7] hot showers and swimming pools. Whether campers are [8] in the mountains or on a busy site, they should remember to [9] the area clean and tidy. In the forests, they must put out any fires and keep food hidden to avoid attracting [10] animals.",
+    "questionNumber": 2,
+    "question": "Choose the best word or phrase for blank 2.",
+    "options": {"A":"tools","B":"baggage","C":"equipment","D":"property"},
+    "correctAnswer": "C"
+  },
+  {
+    "id": 13,
+    "textCode": "TEXT 13",
+    "textTitle": "CAMPING",
+    "passageBody": "Although some groups of people have always lived outdoors in tents, camping as we know it today only began to be [1] about 50 years ago. The increase in the use of cars and improvements in camping [2] have allowed more people to travel longer [3] into the countryside and to stay there in greater comfort. Many campers like to be [4] themselves in quiet areas, so they [5] their tent and food and walk or cycle into the forests or the mountains. Others, preferring to be near people, drive to a public or privately-owned campsite [6] has up-to-date facilities, [7] hot showers and swimming pools. Whether campers are [8] in the mountains or on a busy site, they should remember to [9] the area clean and tidy. In the forests, they must put out any fires and keep food hidden to avoid attracting [10] animals.",
+    "questionNumber": 3,
+    "question": "Choose the best word or phrase for blank 3.",
+    "options": {"A":"ways","B":"directions","C":"voyages","D":"distances"},
+    "correctAnswer": "D"
+  },
+  {
+    "id": 14,
+    "textCode": "TEXT 13",
+    "textTitle": "CAMPING",
+    "passageBody": "Although some groups of people have always lived outdoors in tents, camping as we know it today only began to be [1] about 50 years ago. The increase in the use of cars and improvements in camping [2] have allowed more people to travel longer [3] into the countryside and to stay there in greater comfort. Many campers like to be [4] themselves in quiet areas, so they [5] their tent and food and walk or cycle into the forests or the mountains. Others, preferring to be near people, drive to a public or privately-owned campsite [6] has up-to-date facilities, [7] hot showers and swimming pools. Whether campers are [8] in the mountains or on a busy site, they should remember to [9] the area clean and tidy. In the forests, they must put out any fires and keep food hidden to avoid attracting [10] animals.",
+    "questionNumber": 4,
+    "question": "Choose the best word or phrase for blank 4.",
+    "options": {"A":"on","B":"by","C":"at","D":"of"},
+    "correctAnswer": "B"
+  },
+  {
+    "id": 15,
+    "textCode": "TEXT 13",
+    "textTitle": "CAMPING",
+    "passageBody": "Although some groups of people have always lived outdoors in tents, camping as we know it today only began to be [1] about 50 years ago. The increase in the use of cars and improvements in camping [2] have allowed more people to travel longer [3] into the countryside and to stay there in greater comfort. Many campers like to be [4] themselves in quiet areas, so they [5] their tent and food and walk or cycle into the forests or the mountains. Others, preferring to be near people, drive to a public or privately-owned campsite [6] has up-to-date facilities, [7] hot showers and swimming pools. Whether campers are [8] in the mountains or on a busy site, they should remember to [9] the area clean and tidy. In the forests, they must put out any fires and keep food hidden to avoid attracting [10] animals.",
+    "questionNumber": 5,
+    "question": "Choose the best word or phrase for blank 5.",
+    "options": {"A":"take","B":"make","C":"pick","D":"do"},
+    "correctAnswer": "A"
+  },
+  {
+    "id": 16,
+    "textCode": "TEXT 13",
+    "textTitle": "CAMPING",
+    "passageBody": "Although some groups of people have always lived outdoors in tents, camping as we know it today only began to be [1] about 50 years ago. The increase in the use of cars and improvements in camping [2] have allowed more people to travel longer [3] into the countryside and to stay there in greater comfort. Many campers like to be [4] themselves in quiet areas, so they [5] their tent and food and walk or cycle into the forests or the mountains. Others, preferring to be near people, drive to a public or privately-owned campsite [6] has up-to-date facilities, [7] hot showers and swimming pools. Whether campers are [8] in the mountains or on a busy site, they should remember to [9] the area clean and tidy. In the forests, they must put out any fires and keep food hidden to avoid attracting [10] animals.",
+    "questionNumber": 6,
+    "question": "Choose the best word or phrase for blank 6.",
+    "options": {"A":"where","B":"who","C":"which","D":"when"},
+    "correctAnswer": "C"
+  },
+  {
+    "id": 17,
+    "textCode": "TEXT 13",
+    "textTitle": "CAMPING",
+    "passageBody": "Although some groups of people have always lived outdoors in tents, camping as we know it today only began to be [1] about 50 years ago. The increase in the use of cars and improvements in camping [2] have allowed more people to travel longer [3] into the countryside and to stay there in greater comfort. Many campers like to be [4] themselves in quiet areas, so they [5] their tent and food and walk or cycle into the forests or the mountains. Others, preferring to be near people, drive to a public or privately-owned campsite [6] has up-to-date facilities, [7] hot showers and swimming pools. Whether campers are [8] in the mountains or on a busy site, they should remember to [9] the area clean and tidy. In the forests, they must put out any fires and keep food hidden to avoid attracting [10] animals.",
+    "questionNumber": 7,
+    "question": "Choose the best word or phrase for blank 7.",
+    "options": {"A":"such","B":"like","C":"as","D":"just"},
+    "correctAnswer": "B"
+  },
+  {
+    "id": 18,
+    "textCode": "TEXT 13",
+    "textTitle": "CAMPING",
+    "passageBody": "Although some groups of people have always lived outdoors in tents, camping as we know it today only began to be [1] about 50 years ago. The increase in the use of cars and improvements in camping [2] have allowed more people to travel longer [3] into the countryside and to stay there in greater comfort. Many campers like to be [4] themselves in quiet areas, so they [5] their tent and food and walk or cycle into the forests or the mountains. Others, preferring to be near people, drive to a public or privately-owned campsite [6] has up-to-date facilities, [7] hot showers and swimming pools. Whether campers are [8] in the mountains or on a busy site, they should remember to [9] the area clean and tidy. In the forests, they must put out any fires and keep food hidden to avoid attracting [10] animals.",
+    "questionNumber": 8,
+    "question": "Choose the best word or phrase for blank 8.",
+    "options": {"A":"lonely","B":"single","C":"separate","D":"alone"},
+    "correctAnswer": "D"
+  },
+  {
+    "id": 19,
+    "textCode": "TEXT 13",
+    "textTitle": "CAMPING",
+    "passageBody": "Although some groups of people have always lived outdoors in tents, camping as we know it today only began to be [1] about 50 years ago. The increase in the use of cars and improvements in camping [2] have allowed more people to travel longer [3] into the countryside and to stay there in greater comfort. Many campers like to be [4] themselves in quiet areas, so they [5] their tent and food and walk or cycle into the forests or the mountains. Others, preferring to be near people, drive to a public or privately-owned campsite [6] has up-to-date facilities, [7] hot showers and swimming pools. Whether campers are [8] in the mountains or on a busy site, they should remember to [9] the area clean and tidy. In the forests, they must put out any fires and keep food hidden to avoid attracting [10] animals.",
+    "questionNumber": 9,
+    "question": "Choose the best word or phrase for blank 9.",
+    "options": {"A":"remain","B":"stay","C":"leave","D":"let"},
+    "correctAnswer": "C"
+  },
+  {
+    "id": 20,
+    "textCode": "TEXT 13",
+    "textTitle": "CAMPING",
+    "passageBody": "Although some groups of people have always lived outdoors in tents, camping as we know it today only began to be [1] about 50 years ago. The increase in the use of cars and improvements in camping [2] have allowed more people to travel longer [3] into the countryside and to stay there in greater comfort. Many campers like to be [4] themselves in quiet areas, so they [5] their tent and food and walk or cycle into the forests or the mountains. Others, preferring to be near people, drive to a public or privately-owned campsite [6] has up-to-date facilities, [7] hot showers and swimming pools. Whether campers are [8] in the mountains or on a busy site, they should remember to [9] the area clean and tidy. In the forests, they must put out any fires and keep food hidden to avoid attracting [10] animals.",
+    "questionNumber": 10,
+    "question": "Choose the best word or phrase for blank 10.",
+    "options": {"A":"wild","B":"natural","C":"loose","D":"free"},
+    "correctAnswer": "A"
+  },
+  {
+    "id": 21,
+    "textCode": "TEXT 16",
+    "textTitle": "The History of Film",
+    "passageBody": "The world's first film was shown in 1895 by two French brothers, Louis and Auguste Lumiere. Although it only [1] of short, simple scenes, people loved it and films have [2] popular ever since. The first films were silent, with titles on the screen to [3] the story. Soon the public had [4] favourite actors and actresses and, in this [5], the first film stars appeared. In 1927, the first 'talkie', a film with sound, was shown and from then on, the public [6] only accept this kind of film. Further improvements continued, particularly in America, [7] produced 95% of all films. With the arrival of television in the 1950s, [8] people went to see films, but in [9] years cinema audiences have grown again. More countries have started to produce films that influence film-making and there are currently [10] national film industries.",
+    "questionNumber": 1,
+    "question": "Choose the best word or phrase for blank 1.",
+    "options": {"A":"consisted","B":"contained","C":"belonged","D":"held"},
+    "correctAnswer": "A"
+  },
+  {
+    "id": 22,
+    "textCode": "TEXT 16",
+    "textTitle": "The History of Film",
+    "passageBody": "The world's first film was shown in 1895 by two French brothers, Louis and Auguste Lumiere. Although it only [1] of short, simple scenes, people loved it and films have [2] popular ever since. The first films were silent, with titles on the screen to [3] the story. Soon the public had [4] favourite actors and actresses and, in this [5], the first film stars appeared. In 1927, the first 'talkie', a film with sound, was shown and from then on, the public [6] only accept this kind of film. Further improvements continued, particularly in America, [7] produced 95% of all films. With the arrival of television in the 1950s, [8] people went to see films, but in [9] years cinema audiences have grown again. More countries have started to produce films that influence film-making and there are currently [10] national film industries.",
+    "questionNumber": 2,
+    "question": "Choose the best word or phrase for blank 2.",
+    "options": {"A":"gone","B":"been","C":"made","D":"kept"},
+    "correctAnswer": "B"
+  },
+  {
+    "id": 23,
+    "textCode": "TEXT 16",
+    "textTitle": "The History of Film",
+    "passageBody": "The world's first film was shown in 1895 by two French brothers, Louis and Auguste Lumiere. Although it only [1] of short, simple scenes, people loved it and films have [2] popular ever since. The first films were silent, with titles on the screen to [3] the story. Soon the public had [4] favourite actors and actresses and, in this [5], the first film stars appeared. In 1927, the first 'talkie', a film with sound, was shown and from then on, the public [6] only accept this kind of film. Further improvements continued, particularly in America, [7] produced 95% of all films. With the arrival of television in the 1950s, [8] people went to see films, but in [9] years cinema audiences have grown again. More countries have started to produce films that influence film-making and there are currently [10] national film industries.",
+    "questionNumber": 3,
+    "question": "Choose the best word or phrase for blank 3.",
+    "options": {"A":"join","B":"read","C":"explain","D":"perform"},
+    "correctAnswer": "C"
+  },
+  {
+    "id": 24,
+    "textCode": "TEXT 16",
+    "textTitle": "The History of Film",
+    "passageBody": "The world's first film was shown in 1895 by two French brothers, Louis and Auguste Lumiere. Although it only [1] of short, simple scenes, people loved it and films have [2] popular ever since. The first films were silent, with titles on the screen to [3] the story. Soon the public had [4] favourite actors and actresses and, in this [5], the first film stars appeared. In 1927, the first 'talkie', a film with sound, was shown and from then on, the public [6] only accept this kind of film. Further improvements continued, particularly in America, [7] produced 95% of all films. With the arrival of television in the 1950s, [8] people went to see films, but in [9] years cinema audiences have grown again. More countries have started to produce films that influence film-making and there are currently [10] national film industries.",
+    "questionNumber": 4,
+    "question": "Choose the best word or phrase for blank 4.",
+    "options": {"A":"your","B":"his","C":"our","D":"their"},
+    "correctAnswer": "D"
+  },
+  {
+    "id": 25,
+    "textCode": "TEXT 16",
+    "textTitle": "The History of Film",
+    "passageBody": "The world's first film was shown in 1895 by two French brothers, Louis and Auguste Lumiere. Although it only [1] of short, simple scenes, people loved it and films have [2] popular ever since. The first films were silent, with titles on the screen to [3] the story. Soon the public had [4] favourite actors and actresses and, in this [5], the first film stars appeared. In 1927, the first 'talkie', a film with sound, was shown and from then on, the public [6] only accept this kind of film. Further improvements continued, particularly in America, [7] produced 95% of all films. With the arrival of television in the 1950s, [8] people went to see films, but in [9] years cinema audiences have grown again. More countries have started to produce films that influence film-making and there are currently [10] national film industries.",
+    "questionNumber": 5,
+    "question": "Choose the best word or phrase for blank 5.",
+    "options": {"A":"reason","B":"way","C":"method","D":"result"},
+    "correctAnswer": "B"
+  },
+  {
+    "id": 26,
+    "textCode": "TEXT 16",
+    "textTitle": "The History of Film",
+    "passageBody": "The world's first film was shown in 1895 by two French brothers, Louis and Auguste Lumiere. Although it only [1] of short, simple scenes, people loved it and films have [2] popular ever since. The first films were silent, with titles on the screen to [3] the story. Soon the public had [4] favourite actors and actresses and, in this [5], the first film stars appeared. In 1927, the first 'talkie', a film with sound, was shown and from then on, the public [6] only accept this kind of film. Further improvements continued, particularly in America, [7] produced 95% of all films. With the arrival of television in the 1950s, [8] people went to see films, but in [9] years cinema audiences have grown again. More countries have started to produce films that influence film-making and there are currently [10] national film industries.",
+    "questionNumber": 6,
+    "question": "Choose the best word or phrase for blank 6.",
+    "options": {"A":"should","B":"would","C":"might","D":"will"},
+    "correctAnswer": "B"
+  },
+  {
+    "id": 27,
+    "textCode": "TEXT 16",
+    "textTitle": "The History of Film",
+    "passageBody": "The world's first film was shown in 1895 by two French brothers, Louis and Auguste Lumiere. Although it only [1] of short, simple scenes, people loved it and films have [2] popular ever since. The first films were silent, with titles on the screen to [3] the story. Soon the public had [4] favourite actors and actresses and, in this [5], the first film stars appeared. In 1927, the first 'talkie', a film with sound, was shown and from then on, the public [6] only accept this kind of film. Further improvements continued, particularly in America, [7] produced 95% of all films. With the arrival of television in the 1950s, [8] people went to see films, but in [9] years cinema audiences have grown again. More countries have started to produce films that influence film-making and there are currently [10] national film industries.",
+    "questionNumber": 7,
+    "question": "Choose the best word or phrase for blank 7.",
+    "options": {"A":"who","B":"where","C":"when","D":"which"},
+    "correctAnswer": "D"
+  },
+  {
+    "id": 28,
+    "textCode": "TEXT 16",
+    "textTitle": "The History of Film",
+    "passageBody": "The world's first film was shown in 1895 by two French brothers, Louis and Auguste Lumiere. Although it only [1] of short, simple scenes, people loved it and films have [2] popular ever since. The first films were silent, with titles on the screen to [3] the story. Soon the public had [4] favourite actors and actresses and, in this [5], the first film stars appeared. In 1927, the first 'talkie', a film with sound, was shown and from then on, the public [6] only accept this kind of film. Further improvements continued, particularly in America, [7] produced 95% of all films. With the arrival of television in the 1950s, [8] people went to see films, but in [9] years cinema audiences have grown again. More countries have started to produce films that influence film-making and there are currently [10] national film industries.",
+    "questionNumber": 8,
+    "question": "Choose the best word or phrase for blank 8.",
+    "options": {"A":"other","B":"each","C":"fewer","D":"any"},
+    "correctAnswer": "C"
+  },
+  {
+    "id": 29,
+    "textCode": "TEXT 16",
+    "textTitle": "The History of Film",
+    "passageBody": "The world's first film was shown in 1895 by two French brothers, Louis and Auguste Lumiere. Although it only [1] of short, simple scenes, people loved it and films have [2] popular ever since. The first films were silent, with titles on the screen to [3] the story. Soon the public had [4] favourite actors and actresses and, in this [5], the first film stars appeared. In 1927, the first 'talkie', a film with sound, was shown and from then on, the public [6] only accept this kind of film. Further improvements continued, particularly in America, [7] produced 95% of all films. With the arrival of television in the 1950s, [8] people went to see films, but in [9] years cinema audiences have grown again. More countries have started to produce films that influence film-making and there are currently [10] national film industries.",
+    "questionNumber": 9,
+    "question": "Choose the best word or phrase for blank 9.",
+    "options": {"A":"recent","B":"now","C":"modern","D":"present"},
+    "correctAnswer": "A"
+  },
+  {
+    "id": 30,
+    "textCode": "TEXT 16",
+    "textTitle": "The History of Film",
+    "passageBody": "The world's first film was shown in 1895 by two French brothers, Louis and Auguste Lumiere. Although it only [1] of short, simple scenes, people loved it and films have [2] popular ever since. The first films were silent, with titles on the screen to [3] the story. Soon the public had [4] favourite actors and actresses and, in this [5], the first film stars appeared. In 1927, the first 'talkie', a film with sound, was shown and from then on, the public [6] only accept this kind of film. Further improvements continued, particularly in America, [7] produced 95% of all films. With the arrival of television in the 1950s, [8] people went to see films, but in [9] years cinema audiences have grown again. More countries have started to produce films that influence film-making and there are currently [10] national film industries.",
+    "questionNumber": 10,
+    "question": "Choose the best word or phrase for blank 10.",
+    "options": {"A":"many","B":"lots","C":"much","D":"plenty"},
+    "correctAnswer": "A"
+  },
+  {
+    "id": 31,
+    "textCode": "TEXT 17",
+    "textTitle": "The History of Shoes",
+    "passageBody": "In the past, importance was not given to shoes being comfortable or fashionable. These early foot coverings were probably animal skins, [1] people tied round their ankles during cold [2]. We still use leather today, but [3] materials such as silk, plastic, cotton are also popular, [4] on what is in fashion. It was only one hundred and fifty years [5] that people began to wear a different shoe on each foot. Formerly, the two shoes had been straight instead of shaped and [6] worn on the left or the right foot. All shoes used to be made by hand, but now, [7] there are shoemakers still using their [8] skills, most shoes are now machine-made in large factories. The introduction of sewing machines [9] the shoe industry to produce large [10] of cheaper shoes for a wider range of buyers.",
+    "questionNumber": 1,
+    "question": "Choose the best word or phrase for blank 1.",
+    "options": {"A":"who","B":"why","C":"which","D":"where"},
+    "correctAnswer": "C"
+  },
+  {
+    "id": 32,
+    "textCode": "TEXT 17",
+    "textTitle": "The History of Shoes",
+    "passageBody": "In the past, importance was not given to shoes being comfortable or fashionable. These early foot coverings were probably animal skins, [1] people tied round their ankles during cold [2]. We still use leather today, but [3] materials such as silk, plastic, cotton are also popular, [4] on what is in fashion. It was only one hundred and fifty years [5] that people began to wear a different shoe on each foot. Formerly, the two shoes had been straight instead of shaped and [6] worn on the left or the right foot. All shoes used to be made by hand, but now, [7] there are shoemakers still using their [8] skills, most shoes are now machine-made in large factories. The introduction of sewing machines [9] the shoe industry to produce large [10] of cheaper shoes for a wider range of buyers.",
+    "questionNumber": 2,
+    "question": "Choose the best word or phrase for blank 2.",
+    "options": {"A":"weather","B":"climate","C":"temperature","D":"condition"},
+    "correctAnswer": "A"
+  },
+  {
+    "id": 33,
+    "textCode": "TEXT 17",
+    "textTitle": "The History of Shoes",
+    "passageBody": "In the past, importance was not given to shoes being comfortable or fashionable. These early foot coverings were probably animal skins, [1] people tied round their ankles during cold [2]. We still use leather today, but [3] materials such as silk, plastic, cotton are also popular, [4] on what is in fashion. It was only one hundred and fifty years [5] that people began to wear a different shoe on each foot. Formerly, the two shoes had been straight instead of shaped and [6] worn on the left or the right foot. All shoes used to be made by hand, but now, [7] there are shoemakers still using their [8] skills, most shoes are now machine-made in large factories. The introduction of sewing machines [9] the shoe industry to produce large [10] of cheaper shoes for a wider range of buyers.",
+    "questionNumber": 3,
+    "question": "Choose the best word or phrase for blank 3.",
+    "options": {"A":"either","B":"both","C":"another","D":"other"},
+    "correctAnswer": "D"
+  },
+  {
+    "id": 34,
+    "textCode": "TEXT 17",
+    "textTitle": "The History of Shoes",
+    "passageBody": "In the past, importance was not given to shoes being comfortable or fashionable. These early foot coverings were probably animal skins, [1] people tied round their ankles during cold [2]. We still use leather today, but [3] materials such as silk, plastic, cotton are also popular, [4] on what is in fashion. It was only one hundred and fifty years [5] that people began to wear a different shoe on each foot. Formerly, the two shoes had been straight instead of shaped and [6] worn on the left or the right foot. All shoes used to be made by hand, but now, [7] there are shoemakers still using their [8] skills, most shoes are now machine-made in large factories. The introduction of sewing machines [9] the shoe industry to produce large [10] of cheaper shoes for a wider range of buyers.",
+    "questionNumber": 4,
+    "question": "Choose the best word or phrase for blank 4.",
+    "options": {"A":"turning","B":"depending","C":"resting","D":"taking"},
+    "correctAnswer": "B"
+  },
+  {
+    "id": 35,
+    "textCode": "TEXT 17",
+    "textTitle": "The History of Shoes",
+    "passageBody": "In the past, importance was not given to shoes being comfortable or fashionable. These early foot coverings were probably animal skins, [1] people tied round their ankles during cold [2]. We still use leather today, but [3] materials such as silk, plastic, cotton are also popular, [4] on what is in fashion. It was only one hundred and fifty years [5] that people began to wear a different shoe on each foot. Formerly, the two shoes had been straight instead of shaped and [6] worn on the left or the right foot. All shoes used to be made by hand, but now, [7] there are shoemakers still using their [8] skills, most shoes are now machine-made in large factories. The introduction of sewing machines [9] the shoe industry to produce large [10] of cheaper shoes for a wider range of buyers.",
+    "questionNumber": 5,
+    "question": "Choose the best word or phrase for blank 5.",
+    "options": {"A":"before","B":"beyond","C":"ago","D":"after"},
+    "correctAnswer": "C"
+  },
+  {
+    "id": 36,
+    "textCode": "TEXT 17",
+    "textTitle": "The History of Shoes",
+    "passageBody": "In the past, importance was not given to shoes being comfortable or fashionable. These early foot coverings were probably animal skins, [1] people tied round their ankles during cold [2]. We still use leather today, but [3] materials such as silk, plastic, cotton are also popular, [4] on what is in fashion. It was only one hundred and fifty years [5] that people began to wear a different shoe on each foot. Formerly, the two shoes had been straight instead of shaped and [6] worn on the left or the right foot. All shoes used to be made by hand, but now, [7] there are shoemakers still using their [8] skills, most shoes are now machine-made in large factories. The introduction of sewing machines [9] the shoe industry to produce large [10] of cheaper shoes for a wider range of buyers.",
+    "questionNumber": 6,
+    "question": "Choose the best word or phrase for blank 6.",
+    "options": {"A":"must","B":"could","C":"ought","D":"might"},
+    "correctAnswer": "B"
+  },
+  {
+    "id": 37,
+    "textCode": "TEXT 17",
+    "textTitle": "The History of Shoes",
+    "passageBody": "In the past, importance was not given to shoes being comfortable or fashionable. These early foot coverings were probably animal skins, [1] people tied round their ankles during cold [2]. We still use leather today, but [3] materials such as silk, plastic, cotton are also popular, [4] on what is in fashion. It was only one hundred and fifty years [5] that people began to wear a different shoe on each foot. Formerly, the two shoes had been straight instead of shaped and [6] worn on the left or the right foot. All shoes used to be made by hand, but now, [7] there are shoemakers still using their [8] skills, most shoes are now machine-made in large factories. The introduction of sewing machines [9] the shoe industry to produce large [10] of cheaper shoes for a wider range of buyers.",
+    "questionNumber": 7,
+    "question": "Choose the best word or phrase for blank 7.",
+    "options": {"A":"although","B":"if","C":"unless","D":"since"},
+    "correctAnswer": "A"
+  },
+  {
+    "id": 38,
+    "textCode": "TEXT 17",
+    "textTitle": "The History of Shoes",
+    "passageBody": "In the past, importance was not given to shoes being comfortable or fashionable. These early foot coverings were probably animal skins, [1] people tied round their ankles during cold [2]. We still use leather today, but [3] materials such as silk, plastic, cotton are also popular, [4] on what is in fashion. It was only one hundred and fifty years [5] that people began to wear a different shoe on each foot. Formerly, the two shoes had been straight instead of shaped and [6] worn on the left or the right foot. All shoes used to be made by hand, but now, [7] there are shoemakers still using their [8] skills, most shoes are now machine-made in large factories. The introduction of sewing machines [9] the shoe industry to produce large [10] of cheaper shoes for a wider range of buyers.",
+    "questionNumber": 8,
+    "question": "Choose the best word or phrase for blank 8.",
+    "options": {"A":"typical","B":"usual","C":"model","D":"traditional"},
+    "correctAnswer": "D"
+  },
+  {
+    "id": 39,
+    "textCode": "TEXT 17",
+    "textTitle": "The History of Shoes",
+    "passageBody": "In the past, importance was not given to shoes being comfortable or fashionable. These early foot coverings were probably animal skins, [1] people tied round their ankles during cold [2]. We still use leather today, but [3] materials such as silk, plastic, cotton are also popular, [4] on what is in fashion. It was only one hundred and fifty years [5] that people began to wear a different shoe on each foot. Formerly, the two shoes had been straight instead of shaped and [6] worn on the left or the right foot. All shoes used to be made by hand, but now, [7] there are shoemakers still using their [8] skills, most shoes are now machine-made in large factories. The introduction of sewing machines [9] the shoe industry to produce large [10] of cheaper shoes for a wider range of buyers.",
+    "questionNumber": 9,
+    "question": "Choose the best word or phrase for blank 9.",
+    "options": {"A":"let","B":"allowed","C":"gave","D":"got"},
+    "correctAnswer": "B"
+  },
+  {
+    "id": 40,
+    "textCode": "TEXT 17",
+    "textTitle": "The History of Shoes",
+    "passageBody": "In the past, importance was not given to shoes being comfortable or fashionable. These early foot coverings were probably animal skins, [1] people tied round their ankles during cold [2]. We still use leather today, but [3] materials such as silk, plastic, cotton are also popular, [4] on what is in fashion. It was only one hundred and fifty years [5] that people began to wear a different shoe on each foot. Formerly, the two shoes had been straight instead of shaped and [6] worn on the left or the right foot. All shoes used to be made by hand, but now, [7] there are shoemakers still using their [8] skills, most shoes are now machine-made in large factories. The introduction of sewing machines [9] the shoe industry to produce large [10] of cheaper shoes for a wider range of buyers.",
+    "questionNumber": 10,
+    "question": "Choose the best word or phrase for blank 10.",
+    "options": {"A":"quantities","B":"totals","C":"sums","D":"sizes"},
+    "correctAnswer": "A"
+  }
+]
