@@ -464,6 +464,68 @@ test('GET /mixed-exam.html returns the mixed exam page', async () => {
   }
 });
 
+test('GET /speaking-topics.html returns the speaking topics page', async () => {
+  const app = createApp();
+  const server = app.listen(0);
+  const baseUrl = `http://127.0.0.1:${server.address().port}`;
+
+  try {
+    const response = await request(baseUrl, '/speaking-topics.html');
+
+    assert.equal(response.statusCode, 200);
+    assert.match(response.body, /Speaking Practice/);
+    assert.match(response.body, /Topic 9 den Topic 14/);
+  } finally {
+    await new Promise((resolve, reject) => server.close((error) => error ? reject(error) : resolve()));
+  }
+});
+
+test('GET /writing-topics.html returns the writing topics page', async () => {
+  const app = createApp();
+  const server = app.listen(0);
+  const baseUrl = `http://127.0.0.1:${server.address().port}`;
+
+  try {
+    const response = await request(baseUrl, '/writing-topics.html');
+
+    assert.equal(response.statusCode, 200);
+    assert.match(response.body, /Writing Practice/);
+    assert.match(response.body, /Topic 15 va Topic 16/);
+  } finally {
+    await new Promise((resolve, reject) => server.close((error) => error ? reject(error) : resolve()));
+  }
+});
+
+test('GET /speaking redirects to the speaking topics page', async () => {
+  const app = createApp();
+  const server = app.listen(0);
+  const baseUrl = `http://127.0.0.1:${server.address().port}`;
+
+  try {
+    const response = await request(baseUrl, '/speaking');
+
+    assert.equal(response.statusCode, 302);
+    assert.equal(response.headers.location, '/speaking-topics.html');
+  } finally {
+    await new Promise((resolve, reject) => server.close((error) => error ? reject(error) : resolve()));
+  }
+});
+
+test('GET /wrting redirects to the writing topics page', async () => {
+  const app = createApp();
+  const server = app.listen(0);
+  const baseUrl = `http://127.0.0.1:${server.address().port}`;
+
+  try {
+    const response = await request(baseUrl, '/wrting');
+
+    assert.equal(response.statusCode, 302);
+    assert.equal(response.headers.location, '/writing-topics.html');
+  } finally {
+    await new Promise((resolve, reject) => server.close((error) => error ? reject(error) : resolve()));
+  }
+});
+
 test('GET /sign/01.png serves sign image assets', async () => {
   const app = createApp();
   const server = app.listen(0);

@@ -41,6 +41,7 @@ function validateSubmissionPayload(res, answers, questionIds) {
 }
 
 function createApp(options = {}) {
+  const publicPath = path.join(__dirname, 'public');
   const csvPath = options.csvPath || DEFAULT_CSV_PATH;
   const clozePath = options.clozePath || DEFAULT_CLOZE_PATH;
   const listeningPath = options.listeningPath || DEFAULT_LISTENING_PATH;
@@ -60,8 +61,24 @@ function createApp(options = {}) {
   const app = express();
 
   app.use(express.json());
-  app.use(express.static(path.join(__dirname, 'public')));
+  app.use(express.static(publicPath));
   app.use('/sign', express.static(signPath));
+
+  app.get(['/speaking-topics', '/speaking-topics.html'], (req, res) => {
+    res.sendFile(path.join(publicPath, 'speaking-topics.html'));
+  });
+
+  app.get(['/writing-topics', '/writing-topics.html'], (req, res) => {
+    res.sendFile(path.join(publicPath, 'writing-topics.html'));
+  });
+
+  app.get(['/speaking', '/speaking.html'], (req, res) => {
+    res.redirect('/speaking-topics.html');
+  });
+
+  app.get(['/writing', '/writing.html', '/wrting', '/wrting.html'], (req, res) => {
+    res.redirect('/writing-topics.html');
+  });
 
   app.get('/api/questions', (req, res) => {
     const requestedQuizType = req.query.quizType;
